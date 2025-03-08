@@ -1,3 +1,5 @@
+// WAP to input a number and print that number into words like 123 as One Two Three
+
 main(){
 char x,y,z;
 printf("enter first character : ");
